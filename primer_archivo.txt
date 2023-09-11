@@ -1,0 +1,3 @@
+hola! este es una pequeña edicion de un archivop de texto encha con nano
+
+luego lo subira a github usando la bahs de git, aver que tal sale esto...
